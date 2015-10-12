@@ -9,6 +9,10 @@ import sys
 data = {}
 
 def main():
+    if len(sys.argv) != 3:
+        print('Usage: python generate.py <DATA_FOLDER> <OUTPUT_HTML>')
+        return
+
     data_folder = sys.argv[1]
     data_output_file = sys.argv[2]
     parse_data(data_folder)
