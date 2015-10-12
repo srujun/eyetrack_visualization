@@ -1,0 +1,18 @@
+Step 1, 380, Correct Steps
+Step 2, 698, Correct Steps
+Line 2 Scenario, 399, Scenario
+Step 2, 398, Correct Steps
+Step 3, 2013, Incorrect Step
+Line 2 Scenario, 438, Scenario
+Step 2, 179, Correct Steps
+Step 3, 219, Incorrect Step
+Step 4, 438, Correct Steps
+Step 2, 100, Correct Steps
+Step 3, 299, Incorrect Step
+Step 1, 259, Correct Steps
+Line 1 Scenario, 279, Scenario
+Line 2 Scenario, 1853, Scenario
+Step 3, 698, Incorrect Step
+Step 4, 1812, Correct Steps
+Step 3, 777, Incorrect Step
+Directions, 139, Directions

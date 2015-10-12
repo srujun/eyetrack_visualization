@@ -1,0 +1,9 @@
+Step 1, 736, Correct Steps
+Line 3 Scenario, 199, Scenario
+Line 4 Scenario, 538, Scenario
+Step 1, 220, Correct Steps
+Step 2, 4664, Correct Steps
+Step 3, 597, Correct Steps
+Step 4, 359, Correct Steps
+Directions, 199, Directions
+Step 4, 3587, Correct Steps

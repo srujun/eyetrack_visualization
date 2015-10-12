@@ -1,0 +1,9 @@
+Line 1 Scenario, 797, Scenario
+Step 1, 579, Correct Steps
+Step 2, 1514, Correct Steps
+Step 3, 1694, Correct Steps
+Directions, 339, Directions
+Step 2, 2730, Correct Steps
+Step 1, 159, Correct Steps
+Step 2, 757, Correct Steps
+Step 3, 937, Correct Steps
